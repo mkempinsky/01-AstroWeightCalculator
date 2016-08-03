@@ -1,0 +1,79 @@
+
+body {
+  font-family: Roboto Slab;
+  background-color: rgba(0,115,163, .5);
+  text-shadow: -2px 2px 5px rgba(0,115,163, .5);
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+  color: 	rgb(2,64,96);
+  text-shadow: -2px 2px 5px white; 
+  
+}
+
+.input {
+  display: inline-block;
+  margin-left: 12%;
+  color: #fff;
+}
+
+.planet {
+  display: inline-block;
+  color: #fff;
+  margin-left: 12%;
+}
+
+.button {
+  background-color: rgba(123,193,66, .8);
+  font-family: Roboto Slab;
+  font-size: 20px;
+  display: inline-block;
+  margin-left: 12%;
+  color: white;
+  width: 150px;
+  height: 50px;
+  border-radius: 3px;
+}
+
+.footer {
+  background-color: rgba(2,64,96, .5);
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+}
+
+#output {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+  margin-top: 50px;
+  text-shadow: 2px 2px 5px grey;
+}
+
+#options {
+  font-size: 50px;
+}
+
+#userPlanetChoice {
+  width: 200px;
+  height: 180px;
+}
+
+#userWeight {
+  width: 200px;
+  border-radius: 2px;
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
